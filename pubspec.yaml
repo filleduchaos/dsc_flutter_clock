@@ -1,0 +1,16 @@
+name: dsc_flutter_clock
+description: A sample clock app to demonstrate some of Flutter's patterns.
+author: PJ Essien <retrostereoyak@gmail.com>
+
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
